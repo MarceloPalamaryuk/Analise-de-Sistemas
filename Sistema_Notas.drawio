@@ -251,7 +251,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LnXm__7tYP4RGAGag-Qh-87" value="CURSO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="930" width="160" height="120" as="geometry" />
+          <mxGeometry x="-120" y="920" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LnXm__7tYP4RGAGag-Qh-88" value="&lt;div&gt;&lt;u&gt;CodCurso&lt;/u&gt;&lt;/div&gt;NomCurso" style="align=left;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="LnXm__7tYP4RGAGag-Qh-87">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
